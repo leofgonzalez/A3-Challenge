@@ -1,0 +1,16 @@
+chardet==5.2.0
+pandas
+
+# Transformers (BERTimbau)
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99  # Required for tokenization
+protobuf>=3.20.0      # Required for model serialization
+
+# NLTK
+scikit-learn>=1.0.0
+nltk>=3.6.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
